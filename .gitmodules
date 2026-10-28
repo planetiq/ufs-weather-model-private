@@ -1,6 +1,6 @@
 [submodule "UFSATM"]
   path = UFSATM
-  url = https://github.com/planetiq/ufsatm-private
+  url = https://github.com/planetiq/ufsatm-private.git
   branch = zyao_jedi-ufs_GFSv17
 [submodule "WW3"]
   path = WW3
